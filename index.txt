@@ -1,5 +1,5 @@
 ========================
-Django SEO Documentation
+HSEO Documentation
 ========================
 
 ASM is a HSEO based framework, allowing you to manage SEO (Search Engine Optimisation) metadata.
@@ -19,7 +19,7 @@ More information
 ================
 
 - :ref:`Best practice <topics-best-practices>`
-- :ref:`Django SEO contributors' guide <reference-developers>`
+- :ref:`ASM HSEO contributors' guide <reference-developers>`
 
 Indices and tables
 ==================
