@@ -4,7 +4,7 @@ Installation
 
 To download and install the release:
 
-    pip install django-seo
+    pip install arvada-seo-marketing
 
 Or download the release manually, unpack and run:
 
@@ -13,4 +13,3 @@ Or download the release manually, unpack and run:
 If you are interested in the development version, you can download it here:
 
     git clone *****
-
