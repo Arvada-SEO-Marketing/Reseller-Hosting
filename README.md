@@ -1,6 +1,12 @@
-# Reseller-Hosting
+================
+Arvada SEO Marketing Tools
+================
 
-@@ -10,6 +10,15 @@ It allows you to associate metadata with:
+This is a set of SEO tools for ASMT.
+It allows you to associate metadata with:
+
+* absolute paths
+* model instances
 * model classes
 * views
 
@@ -19,11 +25,25 @@ https://www.goodreads.com/user/show/109685641-arvada-seo-marketing
 https://en.gravatar.com/arvadaseomarketing
 
 https://arvadaseomarketing.wordpress.com/
-
 Metadata can be edited in the admin in a centralised place, but also alongside any associated models.
 
 This is however a framework, not an app. You therefore have
-@@ -32,4 +41,10 @@ Here is an example of a definition::
+complete control over the data you store. 
+Here is an example of a definition::
+
+    from rollyourown import seo
+
+    class BasicMetadata(seo.Metadata):
+        title          = seo.Tag(max_length=68, head=True)
+        keywords       = seo.KeywordTag()
+        description    = seo.MetaTag(max_length=155)
+        heading        = seo.Tag(name="h1")
+        subheading     = seo.Tag(name="h2")
+        extra          = seo.Raw(head=True)
+    
+        # Adding some fields for facebook (opengraph)
+        og_title       = seo.MetaTag(name="og:title", populate_from="title", verbose_name="facebook title")
+        og_description = seo.MetaTag(name="og:description", populate_from="description", verbose_name='facebook description')
 
 As you can see it is very flexible, but there is much more than this simple example.
 
