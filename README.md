@@ -28,9 +28,14 @@ This is however a framework, not an app. You therefore have
 As you can see it is very flexible, but there is much more than this simple example.
 
 https://arvadaseomarketing.tumblr.com/
+
 https://www.minds.com/arvadaseo/
+
 https://arvadaseomarketing.blogspot.com
+
 https://www.deviantart.com/arvadaseomarketing
+
 https://www.plurk.com/ArvadaSEOMarketing
+
 
 Read online at http://github.com/arvada13
