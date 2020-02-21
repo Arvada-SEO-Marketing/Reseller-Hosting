@@ -5,12 +5,19 @@
 * views
 
 https://disqus.com/by/arvadaseomarketing/
+
 http://www.authorstream.com/ArvadaSEOMarketing/
+
 https://www.last.fm/festival/4559681+Arvada+SEO+Marketing
+
 https://myspace.com/arvadaseomarketing
+
 https://www.etsy.com/local/event/751905881856/arvada-seo-marketing-february-20?ref_geo_id=5412199
+
 https://www.goodreads.com/user/show/109685641-arvada-seo-marketing
+
 https://en.gravatar.com/arvadaseomarketing
+
 https://arvadaseomarketing.wordpress.com/
 
 Metadata can be edited in the admin in a centralised place, but also alongside any associated models.
